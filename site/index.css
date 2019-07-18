@@ -1,11 +1,46 @@
-h1{
-	background-color:#8B8378;
-color:#E0FFFF}
+.titulo{
 
+	font-family: arial;
+	text-align: center;
+	font-size: 35px;
+	text-shadow: 3px 3px 3px #FF1493;
+	background-color:#8B8378;
+	color:#00BFFF;
+}
+
+h2{
+	color:#00BFFF;
+	 font-style: italic;
+}
 .negrito {
  font-weight: bold;
 }
 
- p { font-style: italic; 
+ p {
+font-family: arial;
+ 	  font-style: italic; 
    font-family: serif;
+   text-align: justify;
+}
+
+img{
+
+}
+figure{
+	text-align: center;
+	font-family: arial;
+	font-size: 17px;
+
+}
+
+
+.rodape{
+	font-family: arial;
+	text-align: center;
+	font-size: 35px;
+	text-shadow: 3px 3px 3px #FF1493;
+	background-color:#8B8378;
+	color:#00BFFF;
+
+
 }
